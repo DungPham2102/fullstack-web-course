@@ -1,0 +1,2 @@
+do api của appbrewery bị lỗi ở bài học này nên ta sẽ cần tự host api để có thể thực hành được bài thực hành này, source code của api năm ở file api-example-secret-api
+sau đó sẽ phải sử dụng postman để tạo token
